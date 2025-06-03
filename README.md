@@ -1,4 +1,4 @@
-![Game Screenshot](screenshot.png)
+![Game Screenshot](Screenshot.png)
 
 📌 About the Project
 The objective of the game is to help the turtle cross the road without getting hit by any cars. As the player successfully crosses the road, the difficulty increases by speeding up the cars.
